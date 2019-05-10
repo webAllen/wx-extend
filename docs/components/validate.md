@@ -41,7 +41,7 @@
 
 ## addMethod(name, method, message) - 添加自定义校验
 第一个参数 name 是添加的方法的名字。
-第二个参数 method 是一个函数，接收三个参数 (value, param) ，value 是元素的值，param 是参数。
+第二个参数 method 是一个函数，接收两个参数 (value, param) ，value 是元素的值，param 是参数。
 第三个参数 message 是自定义的错误提示。
 
 ## 使用说明
